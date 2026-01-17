@@ -1,0 +1,2 @@
+skav-trading-platform>=1.0.0
+PyYAML>=6.0
